@@ -227,4 +227,4 @@ Tremulous is offered as a full free version with all features and updates includ
 Get ready to join the battle! Download Tremulous today and experience the excitement of this unique FPS game!
 
 ---
-**Last updated:** 2026-10-06 02:37:40 UTC
+**Last updated:** 2026-10-06 09:29:57 UTC
